@@ -1,4 +1,4 @@
-# 👋 Hi, I'm vil
+#  👋 Hi, I’m SAM
 
 - 🎓 BCA Student  
 - 🔐 Cybersecurity Fundamentals Learner  
@@ -29,28 +29,6 @@
 ---
 
 
-# 💫 👋 Hi, I’m SAM
-- 🎓 BCA Student  
-- 🔐 Cybersecurity Fundamentals Learner  
-- 🐍 Python for Automation & Security Scripting  
-- 🛡️ Aspiring Red Team / Offensive Security Enthusiast  
-
-## 🚀 Interests
-- Cybersecurity fundamentals, ethical hacking basics  
-- Python scripting, automation, and security tools  
-- Red Team labs, recon tools, and open-source projects  
-
-## 🤝 Collaboration
-- Python & automation projects  
-- Beginner-friendly cybersecurity tools  
-- Red Team practice scripts  
-
-## 💬 Ask Me About
-- Python basics & scripting  
-- Cybersecurity fundamentals  
-- Red Teaming (beginner level)  
-- BCA learning roadmap  
-
 [![](https://visitcount.itsvg.in/api?id=SAM0-cs&icon=0&color=0)](https://visitcount.itsvg.in)
 
  
@@ -78,6 +56,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=SAM0-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SAM0-cs&theme=dark&hide_border=false)<br/>
