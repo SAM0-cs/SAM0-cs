@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SiddheshwarMalavi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malavisiddheshwar@gmail.com) 
 
-# 💻 Languages and Tools
+Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?style=flat&logo=windows-terminal&logoColor=white)
