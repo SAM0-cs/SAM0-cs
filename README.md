@@ -36,9 +36,10 @@ Exploring fundamentals, scripting with Python, and building skills in ethical ha
 ## 🛡️ Languages & Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?style=flat&logo=windows-terminal&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011?style=flat&logo=gnu-bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011?style=flat&logo=gnu-bash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?style=flat&logo=windows-terminal&logoColor=white)
+
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=flat&logoColor=white)
