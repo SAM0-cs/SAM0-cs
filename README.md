@@ -21,11 +21,6 @@
 - Red Teaming (beginner level)  
 - BCA learning roadmap  
 
-
-- [LinkedIn](https://www.linkedin.com/in/your-username)  
-- [Email](mailto:your.email@example.com)  
-- [TryHackMe](https://tryhackme.com/p/your-username)  
-
 ---
 
 
