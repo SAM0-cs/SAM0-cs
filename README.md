@@ -1,7 +1,7 @@
 #  👋 Hi, I’m SAM
 
 - 🎓 BCA Student  
-- 🔐 Cybersecurity Enthusiast
+- 🔐 Cybersecurity Learner:
 Exploring fundamentals, scripting with Python, and building skills in ethical hacking & red teaming.
 - 🐍 Python for Automation & Security Scripting  
 - 🛡️ Aspiring Red Team / Offensive Security Enthusiast  
