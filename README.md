@@ -3,12 +3,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=SAM0-cs&icon=0&color=0)](https://visitcount.itsvg.in)
  
-
+Another Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SiddheshwarMalavi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malavisiddheshwar@gmail.com) 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SAM0)
 
 
 Languages and Tools:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?style=flat&logo=windows-terminal&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011?style=flat&logo=gnu-bash&logoColor=white)
